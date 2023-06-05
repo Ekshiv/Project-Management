@@ -29,7 +29,7 @@ Project management life cyle has 5 stages:
 
 5. __Closing__ - Analyze results and summarise the key learnings. (project may be sucessfull or fail but we learn from it by documenting it and learn key takeaway. So that we can do more better in our next project)
 
-This is how an entire project life cycle moves from __initiation__ to __closing____.
+This is how an entire project life cycle moves from __initiation__ to __closing__.
 
 
 ## Why do we __Need__ project management tools?
