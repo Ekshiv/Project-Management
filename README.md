@@ -29,15 +29,17 @@ Project management life cyle has 5 stages:
 
 5. __Closing__ - Analyze results and summarise the key learnings. (project may be sucessfull or fail but we learn from it by documenting it and learn key takeaway. So that we can do more better in our next project)
 
-This is how an entire project life cycle moves from initiation to closing.
+This is how an entire project life cycle moves from __initiation__ to __closing____.
+
 
 ## Why do we __Need__ project management tools?
 
-* To ensure the project management process works smoothly.
+* To ensure the project management process works __smoothly__.
 
-* Tools not just only assist the team but also help the individuals too complete the task effectively and efficiently.
+* Tools not just only __assist the team__ but also __help the individuals__ too complete the task effectively and efficiently.
 
-* It allows to manage which task to be done in specific orders and which task is interdependent. 
+* It allows to manage which task to be done in __specific orders__ and which task is __interdependent__. 
+
 
 ### What __Important Features__ a project management tool must have?
 
