@@ -1,4 +1,6 @@
 # Introduction to Jira
+![image](https://github.com/Ekshiv/Project-Management/assets/99724929/64d13a38-76be-4c39-9ba7-527ffadad7f7)
+
 
 * __Jira__ is a project management tool based on agile methodlogy and used by agile team/software developers.
 
@@ -52,4 +54,8 @@
 * **Sprints:** Sprints are time-boxed periods of work in Scrum methodology. Sprints help teams to focus on a specific set of tasks and deliverables within a fixed timeframe.
 
 * **Epics:** Epics are large work items that are broken down into smaller issues. They provide a high-level view of the work that needs to be done and help teams to prioritize their work.
+
+
+
+https://github.com/Ekshiv/Project-Management/assets/99724929/ad830ea5-04cd-45e8-9174-d26b30054eb2
 
